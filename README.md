@@ -1,4 +1,4 @@
-B# 🎁 Aplicación del Amigo Secreto
+🎁 Aplicación del Amigo Secreto
 
 ---
 
@@ -30,4 +30,5 @@ Este programa es una aplicación web sencilla que te permite realizar un sorteo 
 
 * **HTML:** Estructura de la aplicación.
 * **CSS:** Estilos y diseño.
+
 * **JavaScript:** Lógica de la aplicación (agregar, sortear, validar).
